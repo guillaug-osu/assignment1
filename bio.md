@@ -16,3 +16,9 @@ Engineering
 
 
 Programming Background:
+
+CS 121 (UMASS)
+CS 187 (UMASS)
+
+CS 165 (OSU)
+CS 225 (OSU)
