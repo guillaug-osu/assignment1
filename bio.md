@@ -9,6 +9,10 @@ playing basketball
 Watching football & baseball
 Telling Jokes
 
+Favorite Artists:
+
+Beyonce
+
 Interests:
 
 Web development
